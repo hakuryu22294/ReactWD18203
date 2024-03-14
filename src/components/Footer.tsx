@@ -73,7 +73,7 @@ const Footer = () => {
                 </ul>
             </div>
             <div className="col-auto">
-                <label className="sr-only" for="subscribeEmail">Email address</label>
+                <label className="sr-only" >Email address</label>
                 <div className="input-group mb-2">
                     <input type="text" className="form-control bg-dark border-light" id="subscribeEmail" placeholder="Email address"/>
                     <div className="input-group-text btn-success text-light">Subscribe</div>
@@ -82,11 +82,11 @@ const Footer = () => {
         </div>
     </div>
 
-    <div class="w-100 bg-black py-3">
-        <div class="container">
-            <div class="row pt-2">
-                <div class="col-12">
-                    <p class="text-left text-light">
+    <div className="w-100 bg-black py-3">
+        <div className="container">
+            <div className="row pt-2">
+                <div className="col-12">
+                    <p className="text-left text-light">
                         Copyright &copy; 2021 Company Name 
                         | Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>
                     </p>

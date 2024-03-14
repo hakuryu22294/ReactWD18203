@@ -33,7 +33,7 @@ const Products = () => {
             
                 
             {products.map((product:IProduct) => (
-                <ProductCard product={product} />
+                <ProductCard key={product.id} product={product} />
             ))}
         </div>
     </div>

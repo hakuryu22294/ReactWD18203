@@ -5,14 +5,14 @@
             "title": "One Piece",
             "description": "Follow the adventures of Monkey D. Luffy and his crew as they search for the legendary One Piece treasure.",
             "price": 9.99,
-            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z9b6J3PZL._AC_SY445_.jpg"
+            "image": "https://s3-ap-southeast-2.amazonaws.com/assets.allenandunwin.com/images/original/9780760375440.jpg"
           },
           {
             "id": 2,
             "title": "Naruto",
             "description": "Naruto Uzumaki, a young ninja with a dream of becoming the strongest ninja and the leader of his village.",
             "price": 8.99,
-            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z9b6J3PZL._AC_SY445_.jpg"
+            "image": "https://product.hstatic.net/200000343865/product/1_c3cc7800dd804a07bcb75c2c1f3a8f0f_master.jpg"
            
           },
           {
@@ -20,7 +20,7 @@
             "title": "Attack on Titan",
             "description": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, gigantic humanoid creatures.",
             "price": 10.99,
-            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z9b6J3PZL._AC_SY445_.jpg"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcjRBP8GH62kFC_7eAA5L1iEf0YjPmMb-Gg&usqp=CAU"
            
           },
           {
@@ -28,7 +28,7 @@
             "title": "My Hero Academia",
             "description": "Follows the story of Izuku Midoriya, a boy born without superpowers in a world where they are the norm, but still dreams of becoming a hero.",
             "price": 7.99,
-            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z9b6J3PZL._AC_SY445_.jpg"
+            "image": "https://m.media-amazon.com/images/I/71N0a132KVL._AC_UF894,1000_QL80_.jpg"
           }
     ],
     "navlinks":[

@@ -1,4 +1,7 @@
 import React from 'react'
+import img1 from '../assets/img/banner_img_01.jpg'
+import img2 from '../assets/img/banner_img_02.jpg'
+import img3 from '../assets/img/banner_img_03.jpg'
 
 
 const Slide = () => {
@@ -14,7 +17,7 @@ const Slide = () => {
                 <div className="container">
                     <div className="row p-5">
                         <div className="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img className="img-fluid" src="./assets/img/banner_img_01.jpg" alt=""/>
+                            <img className="img-fluid" src={img1} alt=""/>
                         </div>
                         <div className="col-lg-6 mb-0 d-flex align-items-center">
                             <div className="text-align-left align-self-center">
@@ -36,7 +39,7 @@ const Slide = () => {
                 <div className="container">
                     <div className="row p-5">
                         <div className="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img className="img-fluid" src="./assets/img/banner_img_02.jpg" alt=""/>
+                            <img className="img-fluid" src={img2} alt=""/>
                         </div>
                         <div className="col-lg-6 mb-0 d-flex align-items-center">
                             <div className="text-align-left">
@@ -55,7 +58,7 @@ const Slide = () => {
                 <div className="container">
                     <div className="row p-5">
                         <div className="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img className="img-fluid" src="./assets/img/banner_img_03.jpg" alt=""/>
+                            <img className="img-fluid" src={img3} alt=""/>
                         </div>
                         <div className="col-lg-6 mb-0 d-flex align-items-center">
                             <div className="text-align-left">
