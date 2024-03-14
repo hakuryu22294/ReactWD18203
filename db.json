@@ -1,0 +1,56 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "One Piece",
+            "description": "Follow the adventures of Monkey D. Luffy and his crew as they search for the legendary One Piece treasure.",
+            "price": 9.99,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z9b6J3PZL._AC_SY445_.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Naruto",
+            "description": "Naruto Uzumaki, a young ninja with a dream of becoming the strongest ninja and the leader of his village.",
+            "price": 8.99,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z9b6J3PZL._AC_SY445_.jpg"
+           
+          },
+          {
+            "id": 3,
+            "title": "Attack on Titan",
+            "description": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, gigantic humanoid creatures.",
+            "price": 10.99,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z9b6J3PZL._AC_SY445_.jpg"
+           
+          },
+          {
+            "id": 4,
+            "title": "My Hero Academia",
+            "description": "Follows the story of Izuku Midoriya, a boy born without superpowers in a world where they are the norm, but still dreams of becoming a hero.",
+            "price": 7.99,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z9b6J3PZL._AC_SY445_.jpg"
+          }
+    ],
+    "navlinks":[
+        {
+            "id": 1,
+            "title": "Home",
+            "url": "/"
+        },
+        {
+            "id": 2,
+            "title": "Products",
+            "url": "/products"
+        },
+        {
+            "id": 3,
+            "title": "About",
+            "url": "/about"
+        },
+        {
+            "id": 4,
+            "title": "Contact",
+            "url": "/contact"
+        }
+    ]
+}
